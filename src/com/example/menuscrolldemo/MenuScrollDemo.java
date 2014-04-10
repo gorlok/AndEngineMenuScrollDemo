@@ -32,6 +32,8 @@ import android.widget.Toast;
 /**
  * Adapted to AndEngine GLES2AC "Anchor Center"
  * 
+ * @see <a href="http://www.andengine.org/forums/tutorials/menu-scroll-example-t5740.html">original source</a>
+ * 
  * @author Knoll Florian
  * @email myfknoll@gmail.com
  */
